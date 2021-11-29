@@ -1,0 +1,85 @@
+body{
+    background-color: rgb(77, 77, 77);
+    display: flex;
+    justify-content: center;
+}
+.papa{
+    margin-top: 20px;
+    width: 1300px;
+    min-height: 250px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px ;
+    flex-wrap: wrap;
+}
+.heroe1{
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left:30px;
+    display: flex;
+    background: -webkit-linear-gradient(180deg, rgb(255, 0, 0), rgb(255, 247, 0));
+    background: -moz-linear-gradient(180deg, rgb(255, 0, 0), rgb(255, 247, 0));
+    background: linear-gradient(180deg, rgb(255, 0, 0), rgb(255, 247, 0));
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+}
+.heroe1 img{
+    position: relative;
+    top: -50px;
+    height: 230px;
+}
+.heroe2{
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left:30px;
+    display: flex;
+    background: -webkit-linear-gradient(90deg, rgb(4, 0, 255), rgb(120, 0, 157));
+    background: -moz-linear-gradient(90deg, rgb(4, 0, 255), rgb(120, 0, 157));
+    background: linear-gradient(90deg, rgb(4, 0, 255), rgb(120, 0, 157));
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+}
+.heroe2 img{
+    position: relative;
+    top: -50px;
+    height: 230px;
+}
+.heroe3{
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left:30px;
+    display: flex;
+    background: -webkit-linear-gradient(90deg, rgb(0, 188, 255), rgb(2, 105, 28));
+    background: -moz-linear-gradient(90deg, rgb(0, 188, 255), rgb(2, 105, 28));
+    background: linear-gradient(90deg, rgb(0, 188, 255), rgb(2, 105, 28));
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+}
+.heroe3 img{
+    position: relative;
+    top: -70px;
+    left: -30px;
+    height: 270px;
+}
+.heroe4{
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-left:30px;
+    display: flex;
+    background: -webkit-linear-gradient(90deg, rgb(255, 0, 0), rgb(60, 0, 255));
+    background: -moz-linear-gradient(90deg, rgb(255, 0, 0), rgb(60, 0, 255));
+    background: linear-gradient(90deg, rgb(255, 0, 0), rgb(60, 0, 255));
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+}
+.heroe4 img{
+    position: relative;
+    top: -20px;
+    height: 190px;
+}
